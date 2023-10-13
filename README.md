@@ -1,3 +1,3 @@
 # Microsoft-Excel-Project
-Excel Coffee Sales Complete Dashboard
+Coffee Sales Interactive Dashboard
 This is a Coffee Sales Dashboard Using Microsoft Excel
